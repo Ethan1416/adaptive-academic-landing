@@ -10,6 +10,13 @@ export default function Footer() {
             <p className="text-gray-400 mb-4">
               Empowering learners worldwide with innovative exam preparation platforms. Our adaptive learning technology helps you achieve certification success.
             </p>
+            <div className="text-gray-400">
+              <p className="mb-2">
+                <a href="tel:+18554323826" className="hover:text-white transition-colors">
+                  (855) 432-3826
+                </a>
+              </p>
+            </div>
           </div>
           <div>
             <h4 className="text-lg font-semibold mb-4">Platforms</h4>
