@@ -129,6 +129,7 @@ export default function TermsOfService() {
           </p>
           <p className="text-gray-700">
             Adaptive Academic Learning Solutions<br />
+            Phone: (855) 432-3826<br />
             Email: legal@adaptiveacademiclearningsolutions.com
           </p>
         </section>
