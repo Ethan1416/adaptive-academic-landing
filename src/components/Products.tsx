@@ -1,9 +1,9 @@
 const products = [
   {
     name: "StartPatriot",
-    description: "Comprehensive U.S. citizenship test preparation with civics lessons, practice tests, and interview preparation.",
+    description: "ASVAB military entrance exam preparation with comprehensive practice tests, study guides, and score improvement strategies.",
     url: "https://startpatriot.com",
-    category: "Citizenship",
+    category: "Military",
     color: "from-red-500 to-blue-600",
   },
   {
