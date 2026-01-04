@@ -1,7 +1,7 @@
 const features = [
   {
     title: "Adaptive Learning",
-    description: "Our AI-powered system adapts to your learning pace and focuses on areas where you need the most improvement.",
+    description: "Our smart system adapts to your learning pace and focuses on areas where you need the most improvement.",
     icon: "lightbulb",
   },
   {
