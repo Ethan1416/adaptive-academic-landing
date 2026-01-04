@@ -7,7 +7,7 @@ export default function Hero() {
             Your Path to Certification Success
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto">
-            Adaptive Academic Learning Solutions provides cutting-edge exam preparation platforms powered by AI-driven adaptive learning technology.
+            Adaptive Academic Learning Solutions provides cutting-edge exam preparation platforms powered by adaptive learning technology.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
